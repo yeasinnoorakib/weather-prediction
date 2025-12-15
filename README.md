@@ -40,5 +40,7 @@ This project uses **meteorological NetCDF (`.nc`) data** (e.g., ERA5 reanalysis 
 1. Clone the repository:
    ```bash
    git clone <repository-url>
+   
+```bash
 pip install -r Requirments.txt
 python Akib.py
