@@ -1,0 +1,11 @@
+The following Python libraries are required:
+
+xarray: For working with NetCDF datasets.
+numpy: For numerical computations.
+pandas: For data manipulation and analysis.
+matplotlib: For data visualization (plots).
+seaborn: For statistical data visualization (heatmaps).
+sklearn: For machine learning tasks, including support vector regression (SVR) and preprocessing.
+
+
+pip install xarray numpy pandas matplotlib seaborn scikit-learn

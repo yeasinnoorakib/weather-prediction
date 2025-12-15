@@ -179,3 +179,28 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# Python
+__pycache__/
+*.pyc
+
+# IDE files
+.idea/
+*.iml
+
+# OS-specific
+.DS_Store
+
+# Virtual environments
+venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Project-specific files (optional, if not needed)
+*.log
+*.csv
+# ===============================
+# Large scientific datasets
+# ===============================
+*.nc
+Data/*.nc
